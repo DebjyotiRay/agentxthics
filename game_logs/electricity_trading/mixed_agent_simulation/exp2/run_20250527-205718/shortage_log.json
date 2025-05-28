@@ -1,0 +1,212 @@
+[
+  {
+    "round": 1,
+    "agent": "A",
+    "amount": 3.835283895199993,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "B",
+    "amount": 9.802606879223575,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "agent": "C",
+    "amount": 15.356939179302131,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "agent": "A",
+    "amount": 1.9203330113336818,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "B",
+    "amount": 0.083086091473632,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "D",
+    "amount": 3.020056910092535,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "agent": "E",
+    "amount": 31.14165381862017,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "A",
+    "amount": 7.7592291092038295,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "C",
+    "amount": 35.35160811026087,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "agent": "D",
+    "amount": 4.178229178085559,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "C",
+    "amount": 1.6326874178728303,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "agent": "D",
+    "amount": 10.041333843190955,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "A",
+    "amount": 3.4683963538210634,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "B",
+    "amount": 4.552098075004679,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "C",
+    "amount": 32.43555576100175,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "D",
+    "amount": 1.9581188047111908,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "agent": "E",
+    "amount": 2.4286031709288665,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "A",
+    "amount": 4.233492674409447,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "B",
+    "amount": 7.51741528982204,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "C",
+    "amount": 12.495908745396989,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "D",
+    "amount": 1.4125281155192937,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "agent": "E",
+    "amount": 4.321039797589606,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "C",
+    "amount": 25.541913923075597,
+    "impact": "high",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "agent": "D",
+    "amount": 1.5813863663962024,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "agent": "A",
+    "amount": 4.942185540357144,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "agent": "B",
+    "amount": 8.204382960833172,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "agent": "C",
+    "amount": 10.629251686053323,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "agent": "D",
+    "amount": 3.372644182272026,
+    "impact": "low",
+    "timestamp": 0
+  },
+  {
+    "round": 10,
+    "agent": "B",
+    "amount": 15.684714256377973,
+    "impact": "medium",
+    "timestamp": 0
+  },
+  {
+    "round": 10,
+    "agent": "C",
+    "amount": 28.648842786737333,
+    "impact": "high",
+    "timestamp": 0
+  }
+]

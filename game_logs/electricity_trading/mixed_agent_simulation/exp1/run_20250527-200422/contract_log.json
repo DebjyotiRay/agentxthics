@@ -1,0 +1,119 @@
+[
+  {
+    "round": 2,
+    "seller": "A",
+    "buyer": "D",
+    "amount": 4.302382354031784,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 3,
+    "seller": "D",
+    "buyer": "A",
+    "amount": 4.0,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "D",
+    "amount": 6.915107506177662,
+    "price": 26.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 6.722453084436745,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 6,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 1.3901970074436178,
+    "price": 30.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "D",
+    "buyer": "A",
+    "amount": 1.4328036248933245,
+    "price": 26.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 8.373159250184372,
+    "price": 30.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 3.1709784173815763,
+    "price": 30.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "D",
+    "buyer": "A",
+    "amount": 4.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 1.8995224614183144,
+    "price": 30.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "D",
+    "buyer": "A",
+    "amount": 3.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 10,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 4.0,
+    "price": 29.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 10,
+    "seller": "A",
+    "buyer": "D",
+    "amount": 2.728905744641537,
+    "price": 29.0,
+    "status": "proposed",
+    "message": ""
+  }
+]

@@ -1,0 +1,282 @@
+{
+  "summary": {
+    "num_rounds": 10,
+    "num_agents": 5,
+    "total_trades": 1528.9180420249997,
+    "average_price": 23.994053798644526,
+    "total_shortages": 30,
+    "agent_profits": {
+      "A": {
+        "profit": 1454.5951708988282,
+        "generation": 100,
+        "storage": 30,
+        "personality": "cooperative"
+      },
+      "B": {
+        "profit": 3606.546531345565,
+        "generation": 100,
+        "storage": 30,
+        "personality": "competitive"
+      },
+      "C": {
+        "profit": 28.20800253548909,
+        "generation": 100,
+        "storage": 30,
+        "personality": "adaptive"
+      },
+      "D": {
+        "profit": 1420.58266611109,
+        "generation": 100,
+        "storage": 30,
+        "personality": "competitive"
+      },
+      "E": {
+        "profit": 1387.6221281705523,
+        "generation": 100,
+        "storage": 30,
+        "personality": "cooperative"
+      }
+    },
+    "collaboration_count": 16,
+    "deception_count": 4,
+    "communication_count": 83,
+    "contract_count": 23
+  },
+  "hypotheses": {
+    "communication_impact": {
+      "decisions_following_messages_percent": 65.71428571428571,
+      "total_decisions": 70,
+      "decisions_with_prior_message": 46,
+      "conclusion": "Communication appears to impact decision making"
+    },
+    "relationship_formation": {
+      "strong_relationships": 3,
+      "agents_with_preferences": 4,
+      "top_relationships": [
+        [
+          [
+            "A",
+            "E"
+          ],
+          36
+        ],
+        [
+          [
+            "A",
+            "B"
+          ],
+          28
+        ],
+        [
+          [
+            "B",
+            "D"
+          ],
+          24
+        ]
+      ],
+      "conclusion": "Agents form consistent trading relationships"
+    },
+    "trust_collaboration": {
+      "high_trust_pairs": 3,
+      "top_collaborators": [
+        [
+          [
+            "A",
+            "E"
+          ],
+          1.0
+        ],
+        [
+          [
+            "B",
+            "D"
+          ],
+          1.0
+        ],
+        [
+          [
+            "A",
+            "B"
+          ],
+          1.0
+        ]
+      ],
+      "increasing_collaboration_trend": false,
+      "acceptance_rates_by_round": [
+        [
+          1,
+          0.5
+        ],
+        [
+          2,
+          0.5
+        ],
+        [
+          3,
+          0.5
+        ],
+        [
+          4,
+          0.6666666666666666
+        ],
+        [
+          5,
+          1.0
+        ],
+        [
+          6,
+          0.6666666666666666
+        ],
+        [
+          7,
+          1.0
+        ],
+        [
+          8,
+          0.5
+        ],
+        [
+          9,
+          1.0
+        ],
+        [
+          10,
+          0.0
+        ]
+      ],
+      "conclusion": "Limited evidence of trust-based collaboration"
+    },
+    "deception": {
+      "explicit_deceptions": 4,
+      "contract_failures": 6,
+      "message_inconsistencies": 0,
+      "total_deceptive_activities": 10,
+      "examples": [
+        {
+          "round": 6,
+          "seller": "D",
+          "buyer": "B",
+          "amount": 4.552098075004679,
+          "shortage": 1.9581188047111908
+        },
+        {
+          "round": 6,
+          "seller": "A",
+          "buyer": "B",
+          "amount": 4.552098075004679,
+          "shortage": 3.4683963538210634
+        },
+        {
+          "round": 7,
+          "seller": "E",
+          "buyer": "A",
+          "amount": 4.233492674409447,
+          "shortage": 4.321039797589606
+        }
+      ],
+      "conclusion": "Evidence supports use of deception for profit"
+    },
+    "profit_vs_stability": {
+      "average_price_volatility": 0.1302171641568467,
+      "blackout_frequency": 2.727272727272727,
+      "profit_in_volatile_periods": -52.825479606322645,
+      "profit_in_stable_periods": 181.37070882429197,
+      "profit_volatility_ratio": -0.2912569507433465,
+      "high_volatility_rounds": [
+        1
+      ],
+      "conclusion": "Agents prioritize profit over market stability"
+    },
+    "emergent_behavior": {
+      "consistent_trading_patterns": 6,
+      "coordinated_messaging": 6,
+      "agents_in_emergent_behaviors": 4,
+      "notable_patterns": [
+        {
+          "pair": [
+            "E",
+            "A"
+          ],
+          "interactions": 6,
+          "rounds": [
+            1,
+            2,
+            4,
+            6,
+            7,
+            9
+          ]
+        },
+        {
+          "pair": [
+            "D",
+            "B"
+          ],
+          "interactions": 3,
+          "rounds": [
+            1,
+            6,
+            7
+          ]
+        },
+        {
+          "pair": [
+            "B",
+            "D"
+          ],
+          "interactions": 3,
+          "rounds": [
+            2,
+            4,
+            5
+          ]
+        }
+      ],
+      "notable_coordination": [
+        {
+          "round": 1,
+          "theme": "price signaling",
+          "count": 2,
+          "agents": [
+            "A",
+            "B"
+          ]
+        },
+        {
+          "round": 3,
+          "theme": "price signaling",
+          "count": 2,
+          "agents": [
+            "B",
+            "E"
+          ]
+        },
+        {
+          "round": 4,
+          "theme": "price signaling",
+          "count": 2,
+          "agents": [
+            "A",
+            "E"
+          ]
+        }
+      ],
+      "conclusion": "Evidence of emergent behavior detected"
+    },
+    "decision_quality": {
+      "total_decisions": 23,
+      "illogical_decisions_count": 0,
+      "illogical_decisions_percent": 0.0,
+      "examples": [],
+      "conclusion": "Agents consistently make logical decisions"
+    },
+    "numerical_accuracy": {
+      "numerical_errors_count": 0,
+      "total_numerical_operations": 73,
+      "error_rate_percent": 0.0,
+      "examples": [],
+      "conclusion": "Agents handle numerical calculations accurately"
+    }
+  }
+}

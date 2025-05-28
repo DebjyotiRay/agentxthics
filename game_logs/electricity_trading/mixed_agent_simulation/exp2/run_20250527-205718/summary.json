@@ -1,0 +1,43 @@
+{
+  "num_rounds": 10,
+  "num_agents": 5,
+  "total_trades": 1528.9180420249997,
+  "average_price": 23.994053798644526,
+  "total_shortages": 30,
+  "agent_profits": {
+    "A": {
+      "profit": 1454.5951708988282,
+      "generation": 100,
+      "storage": 30,
+      "personality": "cooperative"
+    },
+    "B": {
+      "profit": 3606.546531345565,
+      "generation": 100,
+      "storage": 30,
+      "personality": "competitive"
+    },
+    "C": {
+      "profit": 28.20800253548909,
+      "generation": 100,
+      "storage": 30,
+      "personality": "adaptive"
+    },
+    "D": {
+      "profit": 1420.58266611109,
+      "generation": 100,
+      "storage": 30,
+      "personality": "competitive"
+    },
+    "E": {
+      "profit": 1387.6221281705523,
+      "generation": 100,
+      "storage": 30,
+      "personality": "cooperative"
+    }
+  },
+  "collaboration_count": 16,
+  "deception_count": 4,
+  "communication_count": 83,
+  "contract_count": 23
+}

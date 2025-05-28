@@ -1,0 +1,209 @@
+[
+  {
+    "round": 1,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 3.0682271161599943,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 1,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 5.83258253835212,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 2,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 1.9203330113336818,
+    "price": 15.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 2,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 3.0,
+    "price": 25.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 10.0,
+    "price": 20.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 4,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 7.7592291092038295,
+    "price": 26.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 9.903575163204579,
+    "price": 28.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 9.903575163204579,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 8.0,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 25.0,
+    "price": 26.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 25.0,
+    "price": 26.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 3.0,
+    "price": 26.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 4.552098075004679,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 4.552098075004679,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.233492674409447,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 7.51741528982204,
+    "price": 28.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 7.0,
+    "price": 28.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 1.6173700312872228,
+    "price": 26.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 8.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.942185540357144,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 8.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 10,
+    "seller": "E",
+    "buyer": "B",
+    "amount": 9.434000637158283,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  }
+]

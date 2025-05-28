@@ -1,0 +1,182 @@
+[
+  {
+    "round": 1,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract during high demand period"
+  },
+  {
+    "round": 2,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 3.0,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 6.61644319613233,
+    "price": 23.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 4,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 6.988925067042544,
+    "price": 24.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 4,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "accepted",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 5,
+    "seller": "C",
+    "buyer": "A",
+    "amount": 2.0,
+    "price": 28.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 5,
+    "seller": "C",
+    "buyer": "E",
+    "amount": 1.0,
+    "price": 30.0,
+    "status": "proposed",
+    "message": "Strategic electricity contract at standard market rates"
+  },
+  {
+    "round": 6,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 19.26696323117683,
+    "price": 29.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 1.9641862410265105,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 6,
+    "seller": "C",
+    "buyer": "E",
+    "amount": 1.9641862410265105,
+    "price": 28.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 13.67228682886487,
+    "price": 29.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 15.0,
+    "price": 25.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 7,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 15.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 18.21078340756337,
+    "price": 30.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 20.0,
+    "price": 26.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 8,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 20.0,
+    "price": 27.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 23.94125152058757,
+    "price": 30.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 9,
+    "seller": "C",
+    "buyer": "E",
+    "amount": 19.002535170048745,
+    "price": 28.0,
+    "status": "accepted",
+    "message": ""
+  },
+  {
+    "round": 10,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 11.321611390421793,
+    "price": 30.0,
+    "status": "proposed",
+    "message": ""
+  },
+  {
+    "round": 10,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 4.0,
+    "price": 28.0,
+    "status": "proposed",
+    "message": ""
+  }
+]

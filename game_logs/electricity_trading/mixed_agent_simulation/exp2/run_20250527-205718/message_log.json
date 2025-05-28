@@ -1,0 +1,500 @@
+[
+  {
+    "round": 1,
+    "sender": "E",
+    "receiver": "A",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 3 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "D",
+    "receiver": "B",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 6 units at $30.00 per unit"
+  },
+  {
+    "round": 1,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: D to B for 5.83 units at $30.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: D sold 3.84 units to A at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: D sold 3.46 units to B at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 6.35 units to B at $0.00"
+  },
+  {
+    "round": 1,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 6.94 units to C at $0.00"
+  },
+  {
+    "round": 2,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 2,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 2,
+    "sender": "D",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 2,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: E to A for 1.92 units at $15.00"
+  },
+  {
+    "round": 2,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: C sold 1.92 units to A at $12.52"
+  },
+  {
+    "round": 3,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 3,
+    "sender": "A",
+    "receiver": "B",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 1 units at $30.00 per unit"
+  },
+  {
+    "round": 3,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: A to E for 10.00 units at $20.00"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: A sold 10.00 units to E at $25.55"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: C sold 5.00 units to E at $25.55"
+  },
+  {
+    "round": 3,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: C sold 3.02 units to D at $24.91"
+  },
+  {
+    "round": 4,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 4,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 4,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 4,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "D",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 4,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: E to A for 7.76 units at $26.00"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: B to A for 9.90 units at $25.00"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 7.76 units to A at $24.10"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 7.24 units to C at $24.10"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: B sold 7.76 units to C at $24.70"
+  },
+  {
+    "round": 4,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: B sold 2.14 units to D at $24.10"
+  },
+  {
+    "round": 5,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 5,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 5,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 5,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 5,
+    "sender": "D",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: A to E for 8.00 units at $25.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: B to D for 25.00 units at $26.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: B to A for 25.00 units at $26.00"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: A sold 1.63 units to C at $24.38"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: A sold 7.19 units to D at $23.77"
+  },
+  {
+    "round": 5,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 2.85 units to D at $23.77"
+  },
+  {
+    "round": 6,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 6,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 6,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 6,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "D",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 6,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: D to B for 4.55 units at $27.00"
+  },
+  {
+    "round": 6,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: A to B for 4.55 units at $27.00"
+  },
+  {
+    "round": 7,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 7,
+    "sender": "B",
+    "receiver": "D",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 7,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 7,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "D",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 7,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: E to A for 4.23 units at $27.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: D to B for 7.52 units at $28.00"
+  },
+  {
+    "round": 7,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: A to B for 7.00 units at $28.00"
+  },
+  {
+    "round": 8,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 8,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 8,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: REJECT - No explanation provided"
+  },
+  {
+    "round": 8,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: B to A for 8.00 units at $27.00"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: A sold 1.62 units to C at $25.59"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 13.38 units to C at $25.59"
+  },
+  {
+    "round": 8,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 1.58 units to D at $24.95"
+  },
+  {
+    "round": 9,
+    "sender": "A",
+    "receiver": "E",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 9,
+    "sender": "B",
+    "receiver": "A",
+    "message": "CONTRACT PROPOSAL: "
+  },
+  {
+    "round": 9,
+    "sender": "A",
+    "receiver": "B",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 9,
+    "sender": "E",
+    "receiver": "A",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 9,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: E to A for 4.94 units at $27.00"
+  },
+  {
+    "round": 9,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "FORCED CONTRACT ACCEPTANCE: A to B for 8.00 units at $27.00"
+  },
+  {
+    "round": 9,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 4.94 units to A at $25.64"
+  },
+  {
+    "round": 9,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 10.06 units to C at $25.64"
+  },
+  {
+    "round": 10,
+    "sender": "E",
+    "receiver": "B",
+    "message": "SYSTEM-FORCED CONTRACT PROPOSAL: Offering 9 units at $30.00 per unit"
+  },
+  {
+    "round": 10,
+    "sender": "B",
+    "receiver": "E",
+    "message": "CONTRACT RESPONSE: ACCEPT - Accepting contract that matches our needs at a reasonable price."
+  },
+  {
+    "round": 10,
+    "sender": "SYSTEM",
+    "receiver": "PUBLIC",
+    "message": "AUCTION TRADE: E sold 11.79 units to C at $25.78"
+  }
+]

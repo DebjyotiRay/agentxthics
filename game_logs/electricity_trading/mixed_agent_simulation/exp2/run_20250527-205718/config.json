@@ -1,0 +1,94 @@
+{
+  "output_dir": "logs/electricity_trading",
+  "market": {
+    "initial_price": 40,
+    "price_volatility": 0.4,
+    "num_rounds": 10
+  },
+  "llm": {
+    "type": "gemini",
+    "model": "gemini-1.5-flash-002"
+  },
+  "agents": [
+    {
+      "id": "A",
+      "personality": "cooperative",
+      "profit_bias": 0.3,
+      "generation_capacity": 100,
+      "storage_capacity": 30,
+      "demand_profile": "steady"
+    },
+    {
+      "id": "B",
+      "personality": "competitive",
+      "profit_bias": 0.8,
+      "generation_capacity": 100,
+      "storage_capacity": 30,
+      "demand_profile": "variable"
+    },
+    {
+      "id": "C",
+      "personality": "adaptive",
+      "profit_bias": 0.5,
+      "generation_capacity": 100,
+      "storage_capacity": 30,
+      "demand_profile": "peak"
+    },
+    {
+      "id": "D",
+      "personality": "competitive",
+      "profit_bias": 0.7,
+      "generation_capacity": 100,
+      "storage_capacity": 30,
+      "demand_profile": "steady"
+    },
+    {
+      "id": "E",
+      "personality": "cooperative",
+      "profit_bias": 0.2,
+      "generation_capacity": 100,
+      "storage_capacity": 30,
+      "demand_profile": "variable"
+    }
+  ],
+  "market_conditions": {
+    "enable_scarcity": true,
+    "scarcity_rounds": [
+      3,
+      7,
+      11
+    ],
+    "demand_fluctuation": 1.2,
+    "enable_grid_failures": true,
+    "failure_probability": 0.2,
+    "price_shock_rounds": [
+      5,
+      10
+    ],
+    "price_shock_magnitude": 2.5
+  },
+  "communication": {
+    "max_message_length": 100,
+    "enable_bilateral_negotiation": true,
+    "enable_public_announcements": true,
+    "max_contracts_per_turn": 3,
+    "force_contract_proposals": true,
+    "min_contracts_per_round": 2
+  },
+  "analysis": {
+    "save_visualizations": true,
+    "track_market_stability": true,
+    "track_agent_relationships": true,
+    "track_deception_attempts": true,
+    "hypotheses_to_test": [
+      "communication_impact",
+      "relationship_formation",
+      "trust_collaboration",
+      "deception",
+      "profit_vs_stability",
+      "emergent_behavior",
+      "decision_quality",
+      "numerical_accuracy"
+    ]
+  }
+}

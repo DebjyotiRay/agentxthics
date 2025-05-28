@@ -1,0 +1,532 @@
+[
+  {
+    "round": 1,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 3.0682271161599943,
+    "price": 30.0,
+    "total_value": 92.04681348479983,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 5.83258253835212,
+    "price": 30.0,
+    "total_value": 174.9774761505636,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 5.83258253835212,
+    "price": 30.0,
+    "total_value": 174.9774761505636,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "D",
+    "buyer": "A",
+    "amount": 3.835283895199993,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 3.455444277740156,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "E",
+    "buyer": "B",
+    "amount": 6.347162601483419,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 1,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 6.935175223589212,
+    "price": 0.0,
+    "total_value": 0.0,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 1.9203330113336818,
+    "price": 15.0,
+    "total_value": 28.804995170005228,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 1.9203330113336818,
+    "price": 15.0,
+    "total_value": 28.804995170005228,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 2,
+    "seller": "C",
+    "buyer": "A",
+    "amount": 1.9203330113336818,
+    "price": 12.519006109203493,
+    "total_value": 24.040660700591506,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 1.0,
+    "price": 30.0,
+    "total_value": 30.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 10.0,
+    "price": 20.0,
+    "total_value": 200.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 10.0,
+    "price": 20.0,
+    "total_value": 200.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 10.002933669123493,
+    "price": 25.551011056141736,
+    "total_value": 255.5850687736268,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "C",
+    "buyer": "E",
+    "amount": 4.997066330876507,
+    "price": 25.551011056141736,
+    "total_value": 127.68009706849924,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 3,
+    "seller": "C",
+    "buyer": "D",
+    "amount": 3.020056910092535,
+    "price": 24.912235779738193,
+    "total_value": 75.23636981245282,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 9.903575163204579,
+    "price": 25.0,
+    "total_value": 247.58937908011447,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 7.7592291092038295,
+    "price": 26.0,
+    "total_value": 201.73995683929957,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 7.7592291092038295,
+    "price": 26.0,
+    "total_value": 201.73995683929957,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 9.903575163204579,
+    "price": 25.0,
+    "total_value": 247.58937908011447,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 7.7592291092038295,
+    "price": 24.101651509928875,
+    "total_value": 187.01023597572654,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 7.2407708907961705,
+    "price": 24.101651509928875,
+    "total_value": 174.51453667320658,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "C",
+    "amount": 7.7592291092038295,
+    "price": 24.704192797677095,
+    "total_value": 191.6854918751197,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 4,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 2.1443460540007493,
+    "price": 24.101651509928875,
+    "total_value": 51.682281310217185,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 25.0,
+    "price": 26.0,
+    "total_value": 650.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 8.0,
+    "price": 25.0,
+    "total_value": 200.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 8.0,
+    "price": 25.0,
+    "total_value": 200.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "D",
+    "amount": 25.0,
+    "price": 26.0,
+    "total_value": 650.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 25.0,
+    "price": 26.0,
+    "total_value": 650.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 1.6326874178728303,
+    "price": 24.379598567176636,
+    "total_value": 39.804263833419775,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "A",
+    "buyer": "D",
+    "amount": 7.192155208430378,
+    "price": 23.770108602997222,
+    "total_value": 170.9583103940022,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 5,
+    "seller": "E",
+    "buyer": "D",
+    "amount": 2.8491786347605768,
+    "price": 23.770108602997222,
+    "total_value": 67.72528557759827,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 4.552098075004679,
+    "price": 27.0,
+    "total_value": 122.90664802512633,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 3.0,
+    "price": 26.0,
+    "total_value": 78.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 4.552098075004679,
+    "price": 27.0,
+    "total_value": 122.90664802512633,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 6,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 4.552098075004679,
+    "price": 27.0,
+    "total_value": 122.90664802512633,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.233492674409447,
+    "price": 27.0,
+    "total_value": 114.30430220905508,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.233492674409447,
+    "price": 27.0,
+    "total_value": 114.30430220905508,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "D",
+    "buyer": "B",
+    "amount": 7.51741528982204,
+    "price": 28.0,
+    "total_value": 210.48762811501712,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 7,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 7.0,
+    "price": 28.0,
+    "total_value": 196.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "A",
+    "buyer": "E",
+    "amount": 1.6173700312872228,
+    "price": 26.0,
+    "total_value": 42.05162081346779,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "B",
+    "buyer": "A",
+    "amount": 8.0,
+    "price": 27.0,
+    "total_value": 216.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "A",
+    "buyer": "C",
+    "amount": 1.6173700312872228,
+    "price": 25.591502141051954,
+    "total_value": 41.39092861856023,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 13.382629968712777,
+    "price": 25.591502141051954,
+    "total_value": 342.4816034972191,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 8,
+    "seller": "E",
+    "buyer": "D",
+    "amount": 1.5813863663962024,
+    "price": 24.951714587525657,
+    "total_value": 39.45830126692232,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 8.0,
+    "price": 27.0,
+    "total_value": 216.0,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.942185540357144,
+    "price": 27.0,
+    "total_value": 133.4390095896429,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.942185540357144,
+    "price": 27.0,
+    "total_value": 133.4390095896429,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "A",
+    "buyer": "B",
+    "amount": 8.0,
+    "price": 27.0,
+    "total_value": 216.0,
+    "type": "forced_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "E",
+    "buyer": "A",
+    "amount": 4.942185540357144,
+    "price": 25.638610820178513,
+    "total_value": 126.71077167033047,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 9,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 10.057814459642856,
+    "price": 25.638610820178513,
+    "total_value": 257.86839063234726,
+    "type": "auction",
+    "timestamp": 0
+  },
+  {
+    "round": 10,
+    "seller": "E",
+    "buyer": "B",
+    "amount": 9.434000637158283,
+    "price": 30.0,
+    "total_value": 283.0200191147485,
+    "type": "negotiated_contract",
+    "timestamp": 0
+  },
+  {
+    "round": 10,
+    "seller": "E",
+    "buyer": "C",
+    "amount": 11.792500796447854,
+    "price": 25.78324164786038,
+    "total_value": 304.048897667401,
+    "type": "auction",
+    "timestamp": 0
+  }
+]
